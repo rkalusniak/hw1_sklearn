@@ -20,13 +20,13 @@ Folder structure
 
 Here's the folder structure that gets created by `cookiecutter-datascience-simple`:
 
-	├── hw1_sklearn	<- Your notebooks and scripts will live in the main project folder
-		│   .gitignore					<- Common file types for git to ignore
-		│   README.md					<- The top-level README for developers (you) using this project
-		│   hw1)sklearn_output.ipynb	<- A Jupyter notebook to  complete the tasks for this asskignment
+	├── hw1_sklearn				<- Your notebooks and scripts will live in the main project folder
+		│   .gitignore				<- Common file types for git to ignore
+		│   README.md				<- The top-level README for developers (you) using this project
+		│   hw1)sklearn_output.ipynb				<- A Jupyter notebook to  complete the tasks for this asskignment
 		│
-		├───data						<- Final and intermediate data
-		│   └───raw						<- The original, immutable data dump
+		├───data				<- Final and intermediate data
+		│   └───raw				<- The original, immutable data dump
 		│
 		├───docs
 		│       notes.md				<- Simple markdown template for project notes
